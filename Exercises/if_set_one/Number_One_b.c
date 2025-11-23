@@ -6,7 +6,7 @@ int main()
     int bottle;
     int cost;
     
-    /* code */
+    
     printf("\n\n**** Jamal and Daughters Pub ****\n");
     printf("\n\nBeer Brand Price\n");
     printf("1) Tusker 100/=\n");
@@ -22,7 +22,7 @@ int main()
     switch (choice)
     {
     case 1:
-        /* code */
+        
         printf("How many bottles of Tusker do you want? ");
         scanf("%d",&bottle);
 

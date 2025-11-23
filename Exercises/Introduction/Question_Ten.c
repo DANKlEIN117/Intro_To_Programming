@@ -9,11 +9,11 @@ void main()
 
     if(age>=18)
     {
-        printf("\n You can vote\n\n");
+        printf("\nYou can vote\n\n");
     }
     else
     {
-        printf("\n You are too young to vote\n\n");
+        printf("\nYou are too young to vote\n\n");
     }
 
 }
