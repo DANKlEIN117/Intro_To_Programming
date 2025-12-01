@@ -6,7 +6,7 @@ void main( )
 	printf("Enter the points the student got: ");
 	scanf("%d",&points);
 
-	switch(points)
+	switch(points*2)
 	{
 	case 4: printf("\nThe student has a Distinction.");
 		  break;

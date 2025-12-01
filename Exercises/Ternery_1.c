@@ -10,6 +10,5 @@ int main()
     big = (a > b) ? ((a > c) ? a : c):((b > c) ? b : c);
 
     printf("%d is the largest",big);
-    
-    
+    return 0;
 }

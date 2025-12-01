@@ -12,9 +12,9 @@ int main()
 
     printf("Enter two numbers: ");
     scanf("%d %d",&a,&b);
-
+    fflush(stdin);
     printf("Enter an operator: ");
-    scanf(" %c",&operator);
+    scanf("%c",&operator);
 
     if (operator=='+')
     {
