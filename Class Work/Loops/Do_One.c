@@ -8,7 +8,7 @@ int main()
 	do
 	{
 		printf("\nk = %d",k);
-		k = k + 1;//updation
+		k++;//updation
 	}while(k <= 20); //Condition
 
 	printf("\n\n");

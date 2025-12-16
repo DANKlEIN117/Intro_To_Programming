@@ -3,7 +3,7 @@ void main()
 {
 	int i;
 	for(i = 1;i <= 10;i++)
-		printf("\nHello World.");
+		printf("\nHello World.%d", i);
 
 	printf("\n\n");
 }

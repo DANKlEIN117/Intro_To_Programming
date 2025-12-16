@@ -101,7 +101,7 @@ int main()
 }
 
 */
-
+/*
 int main()
 {
     int number;
@@ -137,4 +137,9 @@ int main()
     
 
 
+}
+*/
+int main()
+{
+    
 }
